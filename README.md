@@ -1,6 +1,5 @@
 # 💫 About Me:
-💻 Frontend and Backend Developer <br>⚡ Vibe Coder<br>📍 Expert in HTML, CSS and JAVASCRIPT 
-
+💻 Frontend and Backend Developer <br>⚡ Vibe Coder<br> 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@jayesh__6z) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Jayesh__6z) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Jayesh__6z) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lost6z4u@gmail.com) 
