@@ -1,8 +1,13 @@
 <div align="center">
 
+  <!-- Animated Anime Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=JAYESH&fontSize=80&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Digital%20Creator%20•%20Gamer%20•%20Indie-Dev&descAlignY=55&descSize=16" width="100%" />
+
+  <br />
+
   <!-- Pixelated Retro Typing Header -->
   <a href="https://github.com/LostxJayesh">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=55FF55&center=true&vcenter=true&width=700&height=50&lines=JAYESH+%2F%2F+LEVEL+99+DEVELOPER;Digital+Creator+%E2%80%A2+Gamer+%E2%80%A2+Indie-Dev;Nope%2C+Toh+Aagaye+Aap+!;HTML5+%7C+CSS3+%7C+JavaScript+%7C+Python" alt="Jayesh Gamer Typist Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=55FF55&center=true&vcenter=true&width=700&height=50&lines=LEVEL+99+DEVELOPER+%7C+GAMER+%7C+CREATOR;Nope%2C+Toh+Aagaye+Aap+!;HTML5+%7C+CSS3+%7C+JavaScript+%7C+Python;Omae+Wa+Mou+Shindeiru+...+NANI%3F!" alt="Jayesh Typing Header" />
   </a>
 
   <br /><br />
@@ -18,11 +23,19 @@
   <p><b>[ HP: 100/100 ] &nbsp;|&nbsp; [ HUNGER: 20/20 ] &nbsp;|&nbsp; [ COFFEE: MAX ] &nbsp;|&nbsp; [ EXP: LEVEL 99 ]</b></p>
   <p>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <b>100% CODING ENERGY</b></p>
 
+  <!-- Anime GIF Accent -->
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80" />
+
 </div>
+
+<!-- Animated RGB Line Separator -->
+<img src="https://raw.githubusercontent.com/AnderMendworky/AnderMendworky/main/assets/line-neon.gif" width="100%" height="2px" />
 
 ---
 
 ### CHARACTER PROFILE // QUEST LOG
+
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" />
 
 | Attribute | Details |
 | :--- | :--- |
@@ -41,6 +54,11 @@
 - **Gamer at Heart**: Massive gaming & Minecraft fan! Love building custom worlds & retro vibes.
 - **Content & Community**: 800+ Subscribers & 300k+ total views!
 
+<br clear="right" />
+
+<!-- Animated RGB Line Separator -->
+<img src="https://raw.githubusercontent.com/AnderMendworky/AnderMendworky/main/assets/line-neon.gif" width="100%" height="2px" />
+
 ---
 
 ### ACHIEVEMENTS UNLOCKED
@@ -49,19 +67,24 @@
 
 | Achievement Trophy | Quest Requirement | Status |
 | :--- | :--- | :---: |
-| **[Master Crafter]** | Crafted responsive web layouts with HTML5 & CSS3 | `[UNLOCKED 🔓]` |
-| **[Redstone Engineer]** | Mastered Python logic, algorithms & automation scripts | `[UNLOCKED 🔓]` |
-| **[Web Sorcerer]** | Built interactive applications & retro themes | `[UNLOCKED 🔓]` |
-| **[Git Guardian]** | Pushed commits & leveled up open-source skills on GitHub | `[UNLOCKED 🔓]` |
-| **[Broadcast Master]** | Reached 800+ subscribers & 300k+ channel views | `[UNLOCKED 🔓]` |
+| **[Master Crafter]** | Crafted responsive web layouts with HTML5 & CSS3 | **UNLOCKED** |
+| **[Redstone Engineer]** | Mastered Python logic, algorithms & automation scripts | **UNLOCKED** |
+| **[Web Sorcerer]** | Built interactive applications & retro themes | **UNLOCKED** |
+| **[Git Guardian]** | Pushed commits & leveled up open-source skills on GitHub | **UNLOCKED** |
+| **[Broadcast Master]** | Reached 800+ subscribers & 300k+ channel views | **UNLOCKED** |
 
 </div>
+
+<!-- Animated RGB Line Separator -->
+<img src="https://raw.githubusercontent.com/AnderMendworky/AnderMendworky/main/assets/line-neon.gif" width="100%" height="2px" />
 
 ---
 
 ### TECH INVENTORY
 
 <div align="center">
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="60" />
 
 #### Core Languages
 <p>
@@ -82,11 +105,21 @@
 
 </div>
 
+<!-- Animated RGB Line Separator -->
+<img src="https://raw.githubusercontent.com/AnderMendworky/AnderMendworky/main/assets/line-neon.gif" width="100%" height="2px" />
+
 ---
 
 ### PLAYER ANALYTICS & STATS
 
 <div align="center">
+
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/LostxJayesh">
+    <img src="https://github-profile-trophy.vercel.app/?username=LostxJayesh&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies" />
+  </a>
+
+  <br /><br />
 
   <!-- GitHub Overall Stats -->
   <a href="https://github.com/LostxJayesh">
@@ -105,13 +138,45 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=LostxJayesh&theme=tokyonight&hide_border=true&background=0F141D&ring=55FF55&fire=FFAA00&currStreakNum=55FF55" alt="GitHub Streak" />
   </a>
 
+  <br /><br />
+
+  <!-- GitHub Activity Graph -->
+  <a href="https://github.com/LostxJayesh">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LostxJayesh&theme=tokyo-night&hide_border=true&area=true&custom_title=Jayesh's%20Contribution%20Graph" alt="Activity Graph" width="95%" />
+  </a>
+
 </div>
+
+<!-- Animated RGB Line Separator -->
+<img src="https://raw.githubusercontent.com/AnderMendworky/AnderMendworky/main/assets/line-neon.gif" width="100%" height="2px" />
+
+---
+
+### CONTRIBUTION SNAKE
+
+<div align="center">
+
+  <!-- GitHub Contribution Grid Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LostxJayesh/LostxJayesh/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LostxJayesh/LostxJayesh/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LostxJayesh/LostxJayesh/output/github-contribution-grid-snake.svg">
+  </picture>
+
+</div>
+
+<!-- Animated RGB Line Separator -->
+<img src="https://raw.githubusercontent.com/AnderMendworky/AnderMendworky/main/assets/line-neon.gif" width="100%" height="2px" />
 
 ---
 
 ### MULTIPLAYER HUB // CONNECT WITH ME
 
 <div align="center">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50" /> <b>I love connecting with different people!</b> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50" />
+
+<br /><br />
 
 <p>
   <a href="https://lostxjayesh.qzz.io/">
@@ -149,6 +214,12 @@
 
 <p><i>"Never dig straight down... unless you're writing Python & JS code!"</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f141d&height=120&section=footer"/>
+<br />
+
+<!-- Anime Farewell GIF -->
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70" />
+
+<!-- Animated Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
 
 </div>
